@@ -1,5 +1,6 @@
 .{
     .name = "ziglm",
+    .version = "0.0.0",
     .dependencies = .{},
     .paths = .{
         "build.zig",
